@@ -1,1 +1,9 @@
+# Python
+__pycache__/
+*.pyc
 
+# Models
+chess_bot/models/
+
+# Data
+chess_bot/data/processed_data.npz
