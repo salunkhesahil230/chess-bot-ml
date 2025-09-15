@@ -156,7 +156,7 @@ def main():
                 print("Bot has no legal moves.")
                 break
 
-    # print("Game over.")
+    print("Game over.")
     print(f"Result: {board.result()}")
 
 if __name__ == "__main__":
